@@ -1,0 +1,50 @@
+Index,FACILITY,Address,STREET_NAME,TOWN,COUNTY,TYPE,Phone
+1,Guysborough Memorial Hospital,10560 Route 16,Route 16,Guysborough,Guysborough,Community,(902) 533-3702
+2,Buchanan Memorial Community Health Centre,32610 Cabot Trail,Cabot Trail,Neil's Harbour,Victoria,Community Health Centre,(902) 336-2200
+3,Eastern Memorial Hospital,1746 Union Street,Union Street,Canso,Guysborough,Community,(902) 366-2794
+4,Soldiers Memorial Hospital,462 Main Street,Main Street,Middleton,Annapolis,Community,(902) 825-3411
+5,Digby General Hospital,75 Warwick Street,Warwick Street,Digby,Digby,Community,(902) 245-2501
+6,IWK Health Centre,5850/5980 University Avenue,University Avenue,Halifax,Halifax,Tertiary,(902) 470-8888
+7,QEII - Halifax Infirmary Site,1796 Summer Street,Summer Street,Halifax,Halifax,Tertiary,(902) 473-2700
+8,Cape Breton Health Care Cimplex,1482 George Street,George Street,Sydney,Cape Breton,Regional,(902) 567-8000
+9,Hants Community Hospital,89 Payzant Drive,Payzant Drive,Windsor,Hants,Community,(902) 792-2000
+10,Victoria County Memorial Hospital,30 Old Margaree Road,Old Margaree Road,Baddeck,Victoria,Community,(902) 295-2112
+11,Sacred Heart Community Health Centre,15102 Cabot Trail,Cabot Trail,Cheticamp,Inverness,Community Health Centre,(902) 224-1500
+12,The Nova Scotia Hospital,300 Pleasant Street,Pleasant Street,Dartmouth,Halifax,Tertiary,(902) 464-3111
+13,Valley Regional Hospital,150 Exhibition Street,Exhibition Street,Kentville,Kings,Regional,(902) 678-7381
+14,Sutherland Harris Memorial Hospital,222 Haliburton Road,Haliburton Road,Pictou,Pictou,Community Health Centre,(902) 485-4324
+15,Aberdeen Hospital,835 East River Road,East River Road,New Glasgow,Pictou,Regional,(902) 752-7600
+16,Nova Scotia Environmental Health Centre,3064 Highway 2,Highway 2,Fall River,Halifax,Environmental Health,(902) 860-0057
+17,Colchester East Hants Health Centre,600 Abenaki Road,Abenaki Road,Truro,Colchester,Regional,"1-800-460-2110(Toll Free in NS) or (902)893-4321
+"
+18,QEII - Victoria General (VG) Site,1278 South Park Street,South Park Street,Halifax,Halifax,Tertiary,(902) 473-2700
+19,Glace Bay Health Care Facility,300 South Street,South Street,Glace Bay,Cape Breton,Community,(902) 849-5511
+20,Twin Oaks Memorial Hospital,7704 Highway 7,Highway 7,Musquodoboit Harbour,Halifax,Community,(902) 889-4110
+21,Cumberland Regional Health Care Centre,19428 Highway 2,Highway 2,Upper Nappan,Cumberland,Regional,(902) 667-3361
+22,St. Mary's Memorial Hospital,91 Hospital Road,Hospital Road,Sherbrooke,Guysborough,Community,(902) 522-2882
+23,Strait - Richmond Hospital,138 Hospital Road,Hospital Road,Evanston,Richmond,Community,(902) 625-3100
+24,Bayview Memorial Health Centre,3375 Highway 209,Highway 209,Advocate Harbour,Cumberland,Community Health Centre,(902) 392-2859
+25,Musquodoboit Valley Memorial Hospital,492 Archibald Brook Road,Archibald Brook Road,Middle Musquodoboit,Halifax,Community,(902) 384-2220
+26,Lillian Fraser Memorial Hospital,110 Blair Avenue,Blair Avenue,Tatamagouche,Colchester,Community,(902) 657-2382
+27,Inverness Consolidated Memorial Hospital,39 James Street,James Street,Inverness,Inverness,Community,(902) 258-2100
+28,St. Martha's Regional Hospital,25 Bay Street,Bay Street,Antigonish,Antigonish,Regional,(902) 863-2830
+29,East Coast Forensic Hospital,88 Gloria McCluskey Avenue,Gloria McCluskey Avenue,Dartmouth,Halifax,Rehabilitation,(902) 460-7300
+30,Queens General Hospital,175 School Street,School Street,Liverpool,Queens,Community,(902) 354-3436
+31,All Saints Springhill Hospital,10 Princess Street,Princess Street,Springhill,Cumberland,Community,(902) 597-3773
+32,Northside General Hospital,520 Purves Street,Purves Street,North Sydney,Cape Breton,Community,(902) 794-8521
+33,Eastern Kings Memorial Community Health Centre,23 Earnscliffe Avenue,Earnscliffe Avenue,Wolfville,Kings,Community Health Centre,(902) 542-2266
+34,Yarmouth Regional Hospital,60 Vancouver Street,Vancouver Street,Yarmouth,Yarmouth,Regional,(902) 742-3541
+35,Eastern Shore Memorial Hospital,22637 Highway 7,Highway 7,Sheet Harbour,Halifax,Community,(902) 885-2554
+36,Western Kings Memorial Health Centre,121 Orchard Street,Orchard Street,Berwick,Kings,Community Health Centre,(902) 538-3111
+37,South Cumberland Community Care Centre,50 Jenks Avenue,Jenks Avenue,Parrsboro,Cumberland,Community,(902) 254-2540
+38,St. Anne's Community and Nursing,2313 Highway 206,Highway 206,Arichat,Richmond,Out Patient/ Nursing Home,(902) 226-2826
+39,Fishermen's Memorial Hospital,14 High Street,High Street,Lunenburg,Lunenburg,Community,(902) 634-8801
+40,New Waterford Consolidated Hospital,716 King Street,King Street,New Waterford,Cape Breton,Community,(902) 862-6411
+41,Dartmouth General Hospital,325 Pleasant Street,Pleasant Street,Dartmouth,Halifax,Regional,(902) 465-8300
+42,North Cumberland Memorial Hospital,260 Gulf Shore Road,Gulf Shore Road,Pugwash,Cumberland,Community,(902) 243-2521
+43,Kings Regional Health & Regional Rehabilitation Centre,1349 County Home Road,County Home Road,Cambridge,Kings,Rehabilitation,(902) 538-3103
+44,South Shore Regional Hospital,90 Glen Allan Drive,Glen Allan Drive,Bridgewater,Lunenburg,Regional,(902) 543-4603
+45,Cobequid Community Health Centre,40 Freer Lane,Freer Lane,Sackville,Halifax,Community Health Centre,(902) 869-6100
+46,Nova Scotia Rehabilitation Centre,1341 Summer Street,Summer Street,Halifax,Halifax,Rehabilitation,(902) 473-2700
+47,Annapolis Community Health Centre,821 St. George Street,St. George Street,Annapolis Royal,Annapolis,Community Health Centre,(902) 532-2381
+48,Roseway Hospital,1606 Lake Road,Lake Road,Sandy Point,Shelburne,Community,(902) 875-3011

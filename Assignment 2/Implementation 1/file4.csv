@@ -1,0 +1,21 @@
+ParkName,State,partySize,BookingType,RateType,Equipment
+Graves Island,NS ,35,CampsitePermit,Full,Tents
+Cape Chignecto,NS ,14,BackcountryPermit,Full,ST
+Ellenwood Lake,NS ,12,CampsitePermit,Full,LT30ft
+Dollar Lake,NS ,11,CampsitePermit,Full,ST
+Valleyview,NS ,11,CampsitePermit,Full,ST
+Blomidon,NS ,10,CampsitePermit,Full,Tents
+Caribou Munroes,NS ,9,CampsitePermit,Full,Tents
+Mira River,NS ,9,CampsitePermit,Full,ST
+Battery,NS ,9,CampsitePermit,Full,Tents
+Thomas Raddall,NS ,8,CampsitePermit,Full,ST
+Rissers Beach,NS ,8,CampsitePermit,Full,Tents
+Laurie,NS ,8,CampsitePermit,Full,Tents
+Five Islands,NS ,7,CampsitePermit,Full,Tents
+Porters Lake,NS ,7,CampsitePermit,Full,ST
+Salsman,NS ,6,CampsitePermit,Full,Tents
+Smileys,NS ,6,CampsitePermit,Full,Tents
+The Islands,NS ,6,CampsitePermit,Full,LT20ft
+Amherst Shore,NS ,6,CampsitePermit,Full,Tents
+Whycocomagh,NS ,6,CampsitePermit,Full,LT30ft
+Boylston,NS ,6,CampsitePermit,Full,Tents

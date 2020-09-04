@@ -1,0 +1,10 @@
+expensive,5
+dalhousie,100
+university,5685
+canada,278
+faculty,48
+education,4919
+graduate,36
+computer science,3
+good school | good schools,0
+bad|poor school|schools,0
